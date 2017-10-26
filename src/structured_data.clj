@@ -15,7 +15,7 @@
     (+ x z)))
 
 (defn point [x y]
-  [x y])
+  [x y]
 
 (defn rectangle [bottom-left top-right]
   [bottom-left top-right])
